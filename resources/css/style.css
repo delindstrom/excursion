@@ -6,6 +6,7 @@
 
 a {
   color: aquamarine;
+  text-size:16px;
 }
 
 h1 {
@@ -14,12 +15,19 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
 video {
   align-content: center;
 }
 
 p {
-
+  color: grey;
+  font-size: 21px;
 }
 
 footer {
